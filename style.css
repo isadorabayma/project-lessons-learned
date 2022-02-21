@@ -1,0 +1,23 @@
+#cabecalho{
+    background-color: rgb(127, 151, 104);
+    top: 0cm;
+}
+
+body {
+    background-color: rgb(253, 251, 251);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 19px;
+    color: rgb(34, 40, 31);
+}
+
+#licoes_aprendidas {
+    line-height: 150%;
+}
+
+#licoes_a_aprender {
+    line-height: 150%;
+}
+
+#rodape{
+    background-color: rgb(127, 151, 104);
+}
